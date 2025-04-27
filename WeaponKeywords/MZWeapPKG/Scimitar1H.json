@@ -1,0 +1,15 @@
+{
+    "name": "Scimitar1H",
+    "keyword": [
+        "WeapTypeCurvedSword"
+    ],
+    "commonNames": [
+        "scimitar"
+    ],
+    "excludeNames": [],
+    "outputDescription": "a scimitar",
+    "include": [
+    ],
+    "exclude": [],
+    "validEquipType": "OneHand"
+}
